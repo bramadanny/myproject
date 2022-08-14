@@ -1,4 +1,7 @@
 h1
 {
-    color: red;
+    color: rgb(13, 0, 255);
+}
+body{
+    background-color: yellow;
 }
